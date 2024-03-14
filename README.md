@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TahaSajid14
 - 👀 I’m interested in programming , GEN AI fullstack and WEB development  
-- 🌱 I’m currently learning Digotal system and webtechnology in Hamdard university
+- 🌱 I’m currently learning Digital system and webtechnology in Hamdard university
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me instagram @m.tahhaaa_
 
