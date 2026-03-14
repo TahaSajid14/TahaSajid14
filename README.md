@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TahaSajid
-- 👀 I’m interested in programming , GEN AI fullstack and WEB development  
+- 👀 I’m interested in programming , WEB development , Full stack , Dotnet and angular profeciency   
 - 🌱 I’m currently learning Digital system and webtechnology in Hamdard university
 - 💞️ I’m looking to collaborate on internships
-- 📫 How to reach me instagram @m.tahhaaa_
+- 📫 How to reach me gmail tahasajid965@gmail.com
 
 <!---
 TahaSajid14/TahaSajid14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
