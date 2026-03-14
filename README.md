@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TahaSajid14
+- 👋 Hi, I’m @TahaSajid
 - 👀 I’m interested in programming , GEN AI fullstack and WEB development  
 - 🌱 I’m currently learning Digital system and webtechnology in Hamdard university
 - 💞️ I’m looking to collaborate on internships
